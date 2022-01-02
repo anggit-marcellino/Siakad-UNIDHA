@@ -1,3 +1,3 @@
 # Siakad
-Use .Net Core
-Use Template blazor
+-Use .Net Core
+-Use Template blazor
