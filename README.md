@@ -1,9 +1,8 @@
 # Siakad Use
--.Net Core 5
+-.Net Core 5 MVC
 -Template Blazor
 -EntityFrameworkCore
--PostgreSQL
--MVC
 -Web API
 -C#
 -CRUD
+-PostgreSQL
